@@ -6,7 +6,7 @@ SQN Accounting é uma solução de E-RP (Enterprise Resource Planning) de alta p
 
 - O projeto utiliza o que há de mais sólido no mercado corporativo para garantir disponibilidade e segurança:
 Backend: Desenvolvido em C# (.NET 8) / Java (Spring Boot), utilizando padrões de Clean Architecture e Domain-Driven Design (DDD) para lidar com regras de negócio contábeis complexas.
-- Frontend: Interface administrativa de alta densidade de dados construída com Angular ou React + TypeScript, focada em UX para contadores.
+- Frontend: Interface administrativa de alta densidade de dados construída com React + TypeScript, focada em UX para contadores.
 - Banco de Dados: PostgreSQL com suporte a transações ACID rigorosas, garantindo que balancetes e livros fiscais estejam sempre sincronizados.
 - Mensageria: Integração com RabbitMQ ou Azure Service Bus para processamento assíncrono de folhas de pagamento e emissão de guias de impostos em lote.
 - Infraestrutura: Preparado para Docker & Kubernetes, com esteiras de CI/CD focadas em compliance e segurança.
